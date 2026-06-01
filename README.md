@@ -4,7 +4,7 @@
 
 This project is an end-to-end Inventory Intelligence Solution developed using Power BI.
 
-The dashboard helps inventory managers monitor inventory health, identify stock risks, optimize replenishment decisions, and gain product-level intelligence through interactive drillthrough analysis.
+The solution helps inventory managers monitor inventory health, identify stock risks, optimize replenishment decisions, and gain product-level intelligence through interactive drillthrough analysis.
 
 ---
 
@@ -18,7 +18,7 @@ Retail inventory teams often struggle with:
 * Product-level investigation
 * Delayed replenishment decisions
 
-This solution provides centralized inventory visibility and supports data-driven inventory management.
+This dashboard provides centralized inventory visibility and supports data-driven inventory management.
 
 ---
 
@@ -31,25 +31,51 @@ This solution provides centralized inventory visibility and supports data-driven
 
 ---
 
+# Project Files
+
+### Dashboard File
+
+📊 Retail Inventory Optimization Dashboard.pbix
+
+Location:
+
+```text
+dashboard/Retail Inventory optimization Dashboard.pbix
+```
+
+### Project Reports
+
+📄 Retail Inventory Optimization Dashboard.pdf
+
+📄 Zepto Retail Inventory Intelligence Report.pdf
+
+Location:
+
+```text
+report/
+```
+
+---
+
 # Dashboard Pages
 
 ## 1. Executive Inventory Overview
 
-![Executive Overview](Page1_Executive_Overview.png)
+![Executive Overview](assets/Page1_Executive_Overview.png)
 
 ### Key Features
 
 * Inventory Health Score
 * Inventory Availability %
-* Category Performance Analysis
 * Inventory Value Analysis
+* Category Performance Analysis
 * Inventory Status Monitoring
 
 ---
 
 ## 2. Inventory Risk & Replenishment Dashboard
 
-![Risk Dashboard](Page2_Risk_Replenishment.png)
+![Risk Dashboard](assets/Page2_Risk_Replenishment.png)
 
 ### Key Features
 
@@ -63,7 +89,7 @@ This solution provides centralized inventory visibility and supports data-driven
 
 ## 3. Product Intelligence Center
 
-![Product Intelligence](Page3_Product_Intelligence.png)
+![Product Intelligence](assets/Page3_Product_Intelligence.png)
 
 ### Key Features
 
@@ -77,7 +103,7 @@ This solution provides centralized inventory visibility and supports data-driven
 
 ## 4. Executive Recommendations & Business Insights
 
-![Executive Insights](Page4_Executive_Insights.png)
+![Executive Insights](assets/Page4_Executive_Insights.png)
 
 ### Key Features
 
@@ -91,11 +117,13 @@ This solution provides centralized inventory visibility and supports data-driven
 
 # Key Business Insights
 
-* Inventory Availability: 87.86%
-* Out of Stock Products: 453
-* Low Stock Products: 546
-* Inventory Value: ₹22.43 Lakhs
-* Inventory at Risk: ₹7.20 Lakhs
+| KPI                    | Value        |
+| ---------------------- | ------------ |
+| Inventory Availability | 87.86%       |
+| Out of Stock Products  | 453          |
+| Low Stock Products     | 546          |
+| Inventory Value        | ₹22.43 Lakhs |
+| Inventory at Risk      | ₹7.20 Lakhs  |
 
 ---
 
@@ -105,6 +133,7 @@ This solution provides centralized inventory visibility and supports data-driven
 
 * Data Modeling
 * Dashboard Design
+* Interactive Navigation
 * Drillthrough Analysis
 
 ### DAX
@@ -113,12 +142,14 @@ This solution provides centralized inventory visibility and supports data-driven
 * Inventory Risk Score
 * Inventory Availability %
 * Product Recommendation Engine
+* Product Insight Generation
 
 ### Business Intelligence
 
 * Inventory Analytics
-* Data Storytelling
 * Executive Reporting
+* Risk Analysis
+* Data Storytelling
 * Decision Support
 
 ---
@@ -135,16 +166,20 @@ This solution provides centralized inventory visibility and supports data-driven
 
 # Project Outcome
 
-The dashboard provides inventory managers and business stakeholders with a centralized platform for inventory monitoring, inventory risk identification, replenishment planning, and executive decision support.
+The solution provides inventory managers and business stakeholders with a centralized platform for inventory monitoring, inventory risk identification, replenishment planning, and executive decision support.
 
 ---
 
-## About the Developer
+# About the Developer
 
 **Sakthi Sivakumar**
 
 Inventory Management Professional transitioning into Data Analytics.
 
-Skills:
+### Skills
 
 Power BI • DAX • Power Query • Excel • SQL
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
