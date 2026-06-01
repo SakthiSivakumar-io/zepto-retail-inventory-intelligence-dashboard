@@ -4,9 +4,9 @@
 
 ## 📖 Project Overview
 
-This project is an end-to-end **Inventory Intelligence Solution** developed using **Power BI** to support inventory monitoring, stock risk identification, replenishment planning, product intelligence, and executive decision-making.
+This project is an end-to-end **Inventory Intelligence Solution** developed using **Power BI** to help inventory managers monitor inventory health, identify stock risks, optimize replenishment decisions, and gain product-level intelligence through interactive drillthrough analysis.
 
-The dashboard transforms raw retail inventory data into actionable business insights through interactive visualizations, advanced DAX measures, drillthrough analysis, and executive recommendations.
+The dashboard transforms raw retail inventory data into actionable business insights using advanced DAX measures, inventory risk scoring, recommendation engines, and executive reporting.
 
 ---
 
@@ -52,7 +52,7 @@ This solution addresses these challenges through a centralized inventory intelli
 | Power BI    | Dashboard Development         |
 | Power Query | Data Transformation           |
 | DAX         | KPI & Business Logic Creation |
-| Excel       | Source Data Preparation       |
+| Excel       | Data Preparation              |
 
 ---
 
@@ -79,6 +79,22 @@ zepto-retail-inventory-intelligence-dashboard
 
 ---
 
+# 🔗 Project Resources
+
+### 📊 Power BI Dashboard File
+
+[Download PBIX Dashboard](dashboard/Retail%20Inventory%20optimization%20Dashboard.pbix)
+
+### 📄 Project Report
+
+[View Project Report](reports/Zepto_Retail_Inventory_Intelligence_Report.pdf)
+
+### 📘 Dashboard PDF Export
+
+[View Dashboard Export](reports/Retail%20Inventory%20optimization%20Dashboard.pdf)
+
+---
+
 # 📊 Dashboard Preview
 
 ## 1️⃣ Executive Inventory Overview
@@ -91,7 +107,7 @@ zepto-retail-inventory-intelligence-dashboard
 * Inventory Health Score
 * Inventory Value Analysis
 * Category Performance Tracking
-* Stock Status Distribution
+* Inventory Status Distribution
 * Discount Analysis
 
 ---
@@ -168,7 +184,7 @@ The project includes several custom DAX measures:
 * Inventory Status Classification
 * Stock Bucket Classification
 
-These measures convert transactional inventory data into actionable business intelligence.
+These measures transform raw inventory data into meaningful business intelligence and decision-support metrics.
 
 ---
 
@@ -199,15 +215,16 @@ These measures convert transactional inventory data into actionable business int
 ### Power BI
 
 * Interactive Dashboard Design
-* Drillthrough Navigation
 * KPI Development
 * Executive Reporting
+* Drillthrough Navigation
 
 ### DAX
 
 * Advanced Business Measures
 * Inventory Classification Logic
-* Recommendation Engine Development
+* Risk Assessment Measures
+* Recommendation Engine
 
 ### Business Intelligence
 
@@ -234,7 +251,7 @@ The solution provides inventory managers and business stakeholders with a centra
 * Product Intelligence Analysis
 * Executive Decision Support
 
-This project demonstrates the practical application of Power BI in solving real-world inventory management challenges.
+This project demonstrates how Power BI can be leveraged to solve real-world inventory management challenges through analytics and business intelligence.
 
 ---
 
